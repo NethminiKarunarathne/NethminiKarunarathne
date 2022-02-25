@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NethminiKarunarathne
+- 👋 Hi, I’m NethminiKarunarathne
 - 👀 I’m interested in Game Development and AI
 - 🌱 I’m currently an Engineering student.
 
